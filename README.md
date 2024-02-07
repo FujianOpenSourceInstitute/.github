@@ -2,9 +2,9 @@
 福建省开源数字技术研究院是在福建省民政厅注册的利用非国有资产、自愿举办、从事非营利性开源技术研究、社会服务活动的社会组织。由中电福富信息科技有限公司、福建亿榕信息技术有限公司、福建万加智能科技有限公司、福州软件园科技创新发展有限公司、厦门贝启科技有限公司、福州市凌睿智捷电子有限公司共6家企业和福建工程学院、闽江学院2所高校联合发起成立。
 研究方向包括开源鸿蒙操作系统与国产ARM核硬件适配应用、分布式软总线架构研究与实践、开源鸿蒙数据中心（OH DC）建设、开源鸿蒙软硬件开发与实践。目前自研的基于开源鸿蒙的绿色用电解决方案和HM-2206开发板两项产品，现已经拥有20余个成熟的应用案例和完善的教学课程。
 
-![探索合作](https://osdti.obs.cn-east-3.myhuaweicloud.com/image/a5ede08f.webp "探索合作")
-![职能范围](https://osdti.obs.cn-east-3.myhuaweicloud.com/image/d0d8dd9f.webp "职能范围")
-![输入图片说明](https://osdti.obs.cn-east-3.myhuaweicloud.com/image/d0d8dd9f.webp "自研产品")
+![探索合作](https://osdti.obs.cn-east-3.myhuaweicloud.com/image/a5ede08f.jpg "探索合作")
+![职能范围](https://osdti.obs.cn-east-3.myhuaweicloud.com/image/d0d8dd9f.jpg "职能范围")
+![输入图片说明](https://osdti.obs.cn-east-3.myhuaweicloud.com/image/d0d8dd9f.jpg "自研产品")
 
 ### 如何加入
 请发送申请邮件至：fjosdti@fzrjy.com
